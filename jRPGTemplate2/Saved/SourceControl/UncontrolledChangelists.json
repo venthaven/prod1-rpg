@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Components/AC_jRPG_BattleManager.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Components/AC_jRPG_ActionsManager.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Widgets/Battle/WBP_jRPG_BattleCharacterSlot.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Basics/BP_jRPG_Controller_Battle.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Widgets/Battle/WBP_jRPG_ActionSlot.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Demo/Enemies/BP_jRPGDemo_Demon.uasset"
+			]
+		}
+	]
+}
