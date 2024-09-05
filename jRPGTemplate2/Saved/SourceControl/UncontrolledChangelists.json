@@ -13,7 +13,11 @@
 				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Demo/Enemies/BP_jRPGDemo_Demon.uasset",
 				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Basics/BP_jRPG_Character_Battle_Base.uasset",
 				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Components/AC_jRPG_GamepadControls.uasset",
-				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Components/AC_jRPG_TargetingManager.uasset"
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Components/AC_jRPG_TargetingManager.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Components/AC_jRPG_CharactersManager.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Blueprints/Components/AC_jRPG_CharacterBattleStats.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Demo/Characters/BP_jRPGDemo_Mark.uasset",
+				"C:/Users/drauc/Documents/GitHub/prod1-rpg/jRPGTemplate2/Content/jRPGTemplate/Demo/Characters/BP_jRPGDemo_Kira.uasset"
 			]
 		}
 	]
